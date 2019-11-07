@@ -1,2 +1,3 @@
 saru demo wakaru Git command
 add change index rec
+commit index status rec
